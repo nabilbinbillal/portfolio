@@ -10,10 +10,11 @@
             font-family: Arial, sans-serif;
             margin: 20px;
             padding: 0;
-            background-color: #f5f5f5;
+            background-color: #1e1e1e; /* Dark background */
+            color: #f5f5f5; /* Light text color */
         }
         h1, h2 {
-            color: #333;
+            color: #ffffff; /* White headings */
         }
         ul {
             list-style-type: none;
@@ -24,23 +25,44 @@
         }
         a {
             text-decoration: none;
-            color: #007BFF;
+            color: #4CAF50; /* Green color for links */
         }
         a:hover {
             text-decoration: underline;
+            color: #81C784; /* Lighter green on hover */
         }
         .copy-email {
             cursor: pointer;
-            color: #007BFF;
+            color: #4CAF50; /* Green for email copy */
+            display: inline-block;
+            padding: 5px 10px;
+            border: none;
+            border-radius: 5px;
+            transition: background-color 0.3s, transform 0.1s;
         }
         .copy-email:hover {
-            text-decoration: underline;
+            background-color: #4CAF50;
+            color: white; /* Change text color on hover */
         }
         footer {
             margin-top: 20px;
             text-align: center;
             font-size: 12px;
-            color: #777;
+            color: #aaaaaa; /* Lighter gray for footer */
+        }
+        #copyButton {
+            margin-left: 10px;
+            padding: 5px 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #4CAF50; /* Green background */
+            color: white;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background-color 0.3s, transform 0.1s;
+        }
+        #copyButton:hover {
+            background-color: #66BB6A; /* Lighter green on hover */
         }
     </style>
     <script>
@@ -63,7 +85,8 @@
 
     <section>
         <h2>Email</h2>
-        <p class="copy-email" onclick="copyEmail()">nabilbinbillal@gmail.com (Click to Copy)</p>
+        <p class="copy-email" onclick="copyEmail()">nabilbinbillal@gmail.com</p>
+        <button id="copyButton" onclick="copyEmail()">Copy</button>
     </section>
 
     <section>
@@ -81,7 +104,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 Nabil Bin Billal. All Rights Reserved.</p>
+        <p>&copy; 2024 <a href="https://nabilbinbillal.github.io" style="color: #4CAF50;">Nabil Bin Billal</a>. All Rights Reserved.</p>
     </footer>
 
 </body>
