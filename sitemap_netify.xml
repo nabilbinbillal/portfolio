@@ -21,4 +21,16 @@
         <changefreq>monthly</changefreq>
     </url>
 
+
+        <url>
+        <loc>https://nabilbinbillal.netlify.app/contact</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+
+
+        <url>
+        <loc>https://nabilbinbillal.netlify.app/about-me</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+
 </urlset>
