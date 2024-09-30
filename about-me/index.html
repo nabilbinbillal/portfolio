@@ -76,6 +76,22 @@
     <li><strong>GitHub:</strong> <a href="https://github.com/nabilbinbillal" target="_blank">https://github.com/nabilbinbillal</a></li>
     <li><strong>Threads:</strong> <a href="https://www.threads.net/@nabilbinbillal" target="_blank">https://www.threads.net/@nabilbinbillal</a></li>
     <li><strong>Portfolio:</strong> <a href="https://nabilbinbillal.github.io" target="_blank">https://nabilbinbillal.github.io</a></li>
+    <li>
+        <strong>Email:</strong> 
+        <span id="email" style="cursor: pointer; color: #3E50B4; text-decoration: underline;" onclick="copyEmail()">nabilbinbillal@gmail.com</span>
+    </li>
+    
+    <script>
+    function copyEmail() {
+        const email = document.getElementById('email').innerText;
+        navigator.clipboard.writeText(email).then(() => {
+            alert('Email copied to clipboard: ' + email);
+        }).catch(err => {
+            alert('Failed to copy email: ' + err);
+        });
+    }
+    </script>
+    
 </ul>
 
     </main>
