@@ -79,7 +79,12 @@
     <li style="list-style-type: none; margin: 10px 0;">
         <strong>Email:</strong> 
         <a href="mailto:nabilbinbillal@gmail.com" style="color: #3E50B4; text-decoration: underline; font-weight: bold;">nabilbinbillal@gmail.com</a>
-        <button id="copyButton" style="margin-left: 10px; padding: 5px 10px; border: none; border-radius: 5px; background-color: #3E50B4; color: white; cursor: pointer; transition: background-color 0.3s; font-weight: bold;" onclick="copyEmail()">Copy</button>
+        <button id="copyButton" 
+            style="margin-left: 10px; padding: 8px 15px; border: none; border-radius: 5px; background-color: #4CAF50; color: white; cursor: pointer; font-weight: bold; transition: background-color 0.3s, transform 0.1s;" 
+            onclick="copyEmail()" 
+            onmousedown="this.style.transform='translateY(2px)'" 
+            onmouseup="this.style.transform='translateY(0)'" 
+            onmouseleave="this.style.transform='translateY(0)'">Copy</button>
     </li>
     
     <script>
@@ -92,6 +97,7 @@
         });
     }
     </script>
+    
     
     
     
