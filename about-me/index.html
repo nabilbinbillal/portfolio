@@ -76,14 +76,15 @@
     <li><strong>GitHub:</strong> <a href="https://github.com/nabilbinbillal" target="_blank">https://github.com/nabilbinbillal</a></li>
     <li><strong>Threads:</strong> <a href="https://www.threads.net/@nabilbinbillal" target="_blank">https://www.threads.net/@nabilbinbillal</a></li>
     <li><strong>Portfolio:</strong> <a href="https://nabilbinbillal.github.io" target="_blank">https://nabilbinbillal.github.io</a></li>
-    <li>
+    <li style="list-style-type: none; margin: 10px 0;">
         <strong>Email:</strong> 
-        <span id="email" style="cursor: pointer; color: #3E50B4; text-decoration: underline;" onclick="copyEmail()">nabilbinbillal@gmail.com</span>
+        <a href="mailto:nabilbinbillal@gmail.com" style="color: #3E50B4; text-decoration: underline; font-weight: bold;">nabilbinbillal@gmail.com</a>
+        <button id="copyButton" style="margin-left: 10px; padding: 5px 10px; border: none; border-radius: 5px; background-color: #3E50B4; color: white; cursor: pointer; transition: background-color 0.3s; font-weight: bold;" onclick="copyEmail()">Copy</button>
     </li>
     
     <script>
     function copyEmail() {
-        const email = document.getElementById('email').innerText;
+        const email = 'nabilbinbillal@gmail.com';
         navigator.clipboard.writeText(email).then(() => {
             alert('Email copied to clipboard: ' + email);
         }).catch(err => {
@@ -91,6 +92,8 @@
         });
     }
     </script>
+    
+    
     
 </ul>
 
