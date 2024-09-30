@@ -21,4 +21,14 @@
         <changefreq>monthly</changefreq>
     </url>
 
+        <url>
+        <loc>https://nabilbinbillal.vercel.app/contact</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+
+            <url>
+        <loc>https://nabilbinbillal.vercel.app/about-me</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+
 </urlset>
