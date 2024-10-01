@@ -1,3 +1,5 @@
+
+
 # Hi there, I'm Nabil Bin Billal 👋
 
 **🌐 Web Developer | 💻 MERN Stack Developer | 📱 Android Developer | 🌟 WordPress Developer | 🖊️ Content Writer | 🛡️ Moderator**
@@ -16,8 +18,7 @@ Welcome to my GitHub profile! I'm **Nabil Bin Billal**, a passionate developer a
 
 - 🌱 **Currently Learning:** Advanced **Next.js**, **React.js**, **Node.js**, **Flutter**, and enhancing my scientific writing skills.
 
-
-Here's the updated version:
+- 🎓 **Education:** I am currently studying in the Science group at [Brahmanbaria Govt. College](https://bgc.edu.bd).
 
 🌿 **Contributing To:** The **[3ZERO Club](https://3zero.club/)** with a focus on **climate change** and **environmental** initiatives to promote a sustainable future. Additionally, serving as a moderator for two prominent science communities:
 - **কি... বিজ্ঞান খুঁজছেন [427k members+]** – [*Link:*](https://www.facebook.com/groups/777602136864885) https://www.facebook.com/groups/777602136864885
