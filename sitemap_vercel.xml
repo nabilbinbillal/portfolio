@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://nabilbinbillal.pages.dev/#about</loc>
+        <loc>https://nabilbinbillal.netlify.app/#about</loc>
         <changefreq>monthly</changefreq>
     </url>
 
     <url>
-        <loc>https://nabilbinbillal.pages.dev/#projects</loc>
+        <loc>https://nabilbinbillal.netlify.app/#projects</loc>
         <changefreq>monthly</changefreq>
     </url>
 
     <url>
-        <loc>https://nabilbinbillal.pages.dev/#testimonials</loc>
+        <loc>https://nabilbinbillal.netlify.app/#testimonials</loc>
         <changefreq>monthly</changefreq>
     </url>
 
     <url>
-        <loc>https://nabilbinbillal.pages.dev/#contact</loc>
+        <loc>https://nabilbinbillal.netlify.app/#contact</loc>
         <changefreq>monthly</changefreq>
     </url>
 
         <url>
-        <loc>https://nabilbinbillal.pages.dev/contact</loc>
+        <loc>https://nabilbinbillal.netlify.app/contact</loc>
         <changefreq>monthly</changefreq>
     </url>
 
             <url>
-        <loc>https://nabilbinbillal.pages.dev/about-me</loc>
+        <loc>https://nabilbinbillal.netlify.app/about-me</loc>
         <changefreq>monthly</changefreq>
     </url>
 
 
 
 <url>
-    <loc>https://nabilbinbillal.pages.dev/faq/</loc>
+    <loc>https://nabilbinbillal.netlify.app/faq/</loc>
     <changefreq>monthly</changefreq>
   </url>
 
