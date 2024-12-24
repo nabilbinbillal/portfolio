@@ -2,33 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://nabilbinbillal.vercel.app/#about</loc>
+        <loc>https://nabilbinbillal.pages.dev/#about</loc>
         <changefreq>monthly</changefreq>
     </url>
 
     <url>
-        <loc>https://nabilbinbillal.vercel.app/#projects</loc>
+        <loc>https://nabilbinbillal.pages.dev/#projects</loc>
         <changefreq>monthly</changefreq>
     </url>
 
     <url>
-        <loc>https://nabilbinbillal.vercel.app/#testimonials</loc>
+        <loc>https://nabilbinbillal.pages.dev/#testimonials</loc>
         <changefreq>monthly</changefreq>
     </url>
 
     <url>
-        <loc>https://nabilbinbillal.vercel.app/#contact</loc>
+        <loc>https://nabilbinbillal.pages.dev/#contact</loc>
         <changefreq>monthly</changefreq>
     </url>
 
         <url>
-        <loc>https://nabilbinbillal.vercel.app/contact</loc>
+        <loc>https://nabilbinbillal.pages.dev/contact</loc>
         <changefreq>monthly</changefreq>
     </url>
 
             <url>
-        <loc>https://nabilbinbillal.vercel.app/about-me</loc>
+        <loc>https://nabilbinbillal.pages.dev/about-me</loc>
         <changefreq>monthly</changefreq>
     </url>
+
+
+
+<url>
+    <loc>https://nabilbinbillal.pages.dev/faq/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
 
 </urlset>
