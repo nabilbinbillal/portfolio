@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"gnzpH1tC2rYzI92AVnRaC","rsc":["$","$1","c",{"children":[["$","section",null,{"className":"w-full min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-gray-50/80 to-white/80 dark:from-gray-900/80 dark:to-gray-800/80","children":[["$","h1",null,{"className":"text-5xl font-bold text-gray-800 dark:text-white mb-4","children":"404 - Page Not Found"}],["$","p",null,{"className":"text-lg text-gray-600 dark:text-gray-400 mb-8","children":"Sorry, the page you are looking for does not exist."}],["$","a",null,{"href":"/","className":"px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-800 transition","children":"Go Home"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
